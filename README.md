@@ -6,8 +6,9 @@ A dark, responsive business intelligence dashboard built by Nelson Emmanuel | Ra
 > This is a front-end dashboard experience powered by local mock data. It is designed as a polished portfolio interface and does not require a backend to run.
 
 ## Preview
+![mobile](./public/mobile.png)
+![desktop](./public/desktop.png)
 
-![Ravenick logo](public/oc-logo-no-bg.png)
 
 ## Features
 
@@ -74,8 +75,8 @@ vite.config.ts
 ## Run Locally
 
 ```bash
-git clone https://github.com/Ravenick/northwind-dashboard.git
-cd northwind-dashboard
+git clone https://github.com/Ravenick/northwind-business-dashboard.git
+cd northwind-business-dashboard
 npm install
 npm run dev
 ```
